@@ -1,0 +1,4 @@
+e:\Repos\shop\Shop.Model\bin\Debug\Shop.Model.dll
+e:\Repos\shop\Shop.Model\bin\Debug\Shop.Model.pdb
+e:\Repos\shop\Shop.Model\obj\Debug\Shop.Model.dll
+e:\Repos\shop\Shop.Model\obj\Debug\Shop.Model.pdb
