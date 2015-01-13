@@ -1,5 +1,0 @@
-e:\Repos\shop\Shop.Common\bin\Debug\Shop.Common.dll
-e:\Repos\shop\Shop.Common\bin\Debug\Shop.Common.pdb
-e:\Repos\shop\Shop.Common\obj\Debug\Shop.Common.csprojResolveAssemblyReference.cache
-e:\Repos\shop\Shop.Common\obj\Debug\Shop.Common.dll
-e:\Repos\shop\Shop.Common\obj\Debug\Shop.Common.pdb

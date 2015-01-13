@@ -1,4 +1,0 @@
-e:\Repos\shop\Shop.DAL\bin\Debug\Shop.DAL.dll
-e:\Repos\shop\Shop.DAL\bin\Debug\Shop.DAL.pdb
-e:\Repos\shop\Shop.DAL\obj\Debug\Shop.DAL.dll
-e:\Repos\shop\Shop.DAL\obj\Debug\Shop.DAL.pdb

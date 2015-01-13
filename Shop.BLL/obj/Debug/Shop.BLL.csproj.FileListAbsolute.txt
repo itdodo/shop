@@ -1,4 +1,0 @@
-e:\Repos\shop\Shop.BLL\bin\Debug\Shop.BLL.dll
-e:\Repos\shop\Shop.BLL\bin\Debug\Shop.BLL.pdb
-e:\Repos\shop\Shop.BLL\obj\Debug\Shop.BLL.dll
-e:\Repos\shop\Shop.BLL\obj\Debug\Shop.BLL.pdb
