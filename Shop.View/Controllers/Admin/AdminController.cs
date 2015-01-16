@@ -11,6 +11,7 @@ namespace Shop.Controllers
         // GET: Admin
         public ActionResult Index()
         {
+            ViewBag.Title = "电子商务后台";
             return View();
         }
     }
