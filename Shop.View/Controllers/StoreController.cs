@@ -1,11 +1,11 @@
-﻿using MusicStore.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Shop.Models;
 
-namespace MusicStore.Controllers
+namespace Shop.Controllers
 {
     public class StoreController : Controller
     {
@@ -14,7 +14,6 @@ namespace MusicStore.Controllers
         {
             ViewBag.CurrentTime = DateTime.Now;
             ViewBag.Albums = CreateAlbums();
-            string e = "22";
             return View(CreateAlbums());
         }
 

@@ -4,11 +4,11 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Shop.Controllers
+namespace Shop.Controllers.Admin
 {
-    public class HomeController : Controller
+    public class OrderController : Controller
     {
-        // GET: Home
+        // GET: Order
         public ActionResult Index()
         {
             return View();

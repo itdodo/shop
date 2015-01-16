@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace MusicStore.Models
+namespace Shop.Models
 {
     public class Album
     {
