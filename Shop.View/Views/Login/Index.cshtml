@@ -1,0 +1,58 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>后台登录</title>
+    <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.2/css/bootstrap.css">
+    <script src="http://cdn.bootcss.com/jquery/1.11.2/jquery.min.js"></script>
+    <script src="http://cdn.bootcss.com/bootstrap/3.3.2/js/bootstrap.js"></script>
+    <script>
+        $(function () {
+            $("#login-form").css({ "margin-left": -($("#login-form").width() / 2), "margin-top": -($("#login-form").height() / 2) });
+        });
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4"></div>
+            <div class ="col-md-3" id="login-form" style="position:absolute;top:50%;left:50%;">
+                <form class="form-horizontal am-text-center">
+                        <div class="control-group">
+                            <!-- Text input-->
+                            <label class="control-label" for="input01">账号</label>
+                            <div class="controls">
+                                <input type="text" placeholder="账号" class="input-xlarge form-control">
+                            </div>
+                        </div>
+
+                        <div class="control-group">
+                            <!-- Text input-->
+                            <label class="control-label" for="input01">密码</label>
+                            <div class="controls">
+                                <input type="password" placeholder="" class="input-xlarge form-control">
+                                <p></p>
+                            </div>
+                        </div>
+
+                        <div class="control-group">
+                            <!-- Button -->
+                            <div class="controls">
+                                <button class="btn btn-primary btn-block">登录</button>
+                            </div>
+                        </div>
+                </form>
+            </div>
+            <div class="col-md-4"></div>
+        </div>
+        
+    </div>
+    
+</body>
+</html>
