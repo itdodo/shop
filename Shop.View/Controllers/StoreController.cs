@@ -12,9 +12,9 @@ namespace Shop.Controllers
         // GET: Store
         public ViewResult Index()
         {
-            ViewBag.CurrentTime = DateTime.Now;
-            ViewBag.Albums = CreateAlbums();
-            return View(CreateAlbums());
+            //ViewBag.CurrentTime = DateTime.Now;
+            //ViewBag.Albums = CreateAlbums();
+            return View();
         }
 
         public ActionResult Browse()
@@ -35,6 +35,12 @@ namespace Shop.Controllers
                 albums.Add(new Album { Title="Album"+i});
             }
             return albums;
+        }
+
+        [HttpGet]
+        public ActionResult test(FormCollection form)
+        {
+            return null;
         }
     }
 }
